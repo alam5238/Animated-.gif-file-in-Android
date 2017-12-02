@@ -67,4 +67,6 @@ Now add this code to your `your_layout.xml` file .
 ***Here `android:src="@drawable/banana"` banana is your animated gif file name.***        
 
 
+Follow on Web:: 
 
+http://bd.nas-tec.ml/blog/2017/11/30/gif-animation-in-android-studio/
