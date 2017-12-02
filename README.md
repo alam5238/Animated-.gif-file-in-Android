@@ -5,11 +5,11 @@ Run animation gif image in android layout. Easily use animation with library fil
 ##Now follow these below step::
 ---
 
-  ***Step 1 :***
+***Step 1 :***
           Create a project in Android Studio.
-  ***Step 2 :***
+***Step 2 :***
           Now add the library script in "build.gradle(project: XXX)" .
-          ```
+```
           allprojects {
                 repositories {
                       jcenter()
@@ -17,9 +17,9 @@ Run animation gif image in android layout. Easily use animation with library fil
         
                 }
           }
-          ```
+```
           
-          ```
+```
           buildscript {
               repositories {
                      jcenter()
@@ -27,7 +27,6 @@ Run animation gif image in android layout. Easily use animation with library fil
                }
           
       
-          }
-          ```
+```
           
          
