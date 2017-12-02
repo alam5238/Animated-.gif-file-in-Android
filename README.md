@@ -7,8 +7,9 @@ Run animation gif image in android layout. Easily use animation with library fil
 
 ***Step 1 :***
 Create a project in Android Studio.
+
 ***Step 2 :***
-Now add the library script in "build.gradle(project: XXX)" .
+Now add the library script in `build.gradle(project: XXX)` .
 ```
           allprojects {
                 repositories {
