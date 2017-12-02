@@ -29,5 +29,17 @@ Now add the library script in `build.gradle(project: XXX)` .
           
       
 ```
-          
+
+***Step 3 :***
+Now add the Dependencies in `build.gradle(Module: app)` .
+
+```
+dependencies {
+compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.8'
+{
+```
+
+***Step 4 :***
+Create layout file in `res/layout/your_layout.xml`
+
          
